@@ -1,0 +1,1 @@
+* * * * * php /Users/yangwen/sites/laravel56/artisan schedule:run >> /dev/null 2>&1
